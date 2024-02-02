@@ -1,4 +1,5 @@
 auto: true
 markdown: rdiscount
+theme: jekyll-theme-onepage
 permalink: /:year/:month/:day/:title
 rdiscount extensions: [smart]
